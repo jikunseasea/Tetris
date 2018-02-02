@@ -24,6 +24,5 @@ install:
 - yarn
 script:
 - yarn run build
-after_success:
 - yarn run deploy
 
