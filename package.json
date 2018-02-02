@@ -23,7 +23,7 @@
     "build": "webpack --config webpack.prod.js",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://jkest.github.io/tetris",
+  "homepage": "http://jkest.github.io/Tetris",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "babel-runtime": "^6.26.0",
