@@ -7,3 +7,5 @@ Depends on html5 canvas.
 TODOs:
 
 - Audio to the action
+
+- Score with level
